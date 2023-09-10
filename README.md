@@ -22,7 +22,6 @@ Matplotlib is a Python library that allows you to create high-quality visualizat
 Before you can start using Matplotlib, you need to install it. You can do this using pip, the Python package manager:
 
 bash `pip install matplotlib`
-Basic Plotting
 
 # Getting Started with Matplotlib: 
 
