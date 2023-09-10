@@ -4,14 +4,15 @@ This repository is dedicated to learning and mastering Matplotlib, a powerful an
 
 # Table of Contents:
 
-Introduction to Matplotlib  
-Installation  
-Basic Plotting  
-Customizing Plots  
-Types of Plots  
-Advanced Topics  
-Contributing  
-License  
+[Introduction to Matplotlib](#introduction-to-matplotlib)  
+[Installation](#installation)  
+[Basic Plotting](#basic-plotting)  
+[Customizing Plots](#customizing-plots)  
+[Types of Plots](#types-of-plots)  
+[Advanced Topics](#advanced-topics)  
+[Contributing](#contributing)  
+[License](#license)
+
 
 # Introduction to Matplotlib  
 
@@ -52,10 +53,6 @@ Adding Annotations: Learn how to add text, labels, and annotations to your plots
 **Animations**: Create animated visualizations using Matplotlib's animation capabilities.  
 **Interactive Plots**: Explore interactivity with Matplotlib, making your plots responsive to user actions.  
 
-
-# Contributing
-
-Contributions to this repository are welcome! If you have tutorials, examples, or improvements to existing content, please feel free to open a pull request.
 
 # License
 
